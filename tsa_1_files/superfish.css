@@ -1,0 +1,90 @@
+.sf-menu {
+	font-size:0;
+	line-height:0;
+	padding:0;
+	z-index:99;position:relative;
+	
+	
+}
+nav{float:right;padding-top:20px}
+.sf-menu > li {
+	position:relative;
+	float:left;margin-left:18px;
+
+}
+
+.sf-menu  li a{	
+font-family: 'Oswald', sans-serif;
+	-webkit-transition: all 0.3s ease;
+-moz-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;
+text-transform:uppercase
+}
+
+.sf-menu > li > a{
+	color:#8f8f8f;
+   font-size:18px;
+	line-height:22px;
+	display:block;	   
+	position:relative;
+	
+}
+	
+
+.sf-menu > li.current > a ,.sf-menu > li:hover >a,.sf-menu > li.sfHover > a {
+color:rgb(14,100,65);text-decoration:none
+}
+
+.sf-menu li:hover ul, .sf-menu li.sfHover ul {
+	top:39px;
+	left:0px;
+	z-index:20 !important;
+}
+.sf-menu li:hover li ul, ul.sf-menu li.sfHover li ul {
+	top:-999em
+}
+.sf-menu li li {
+	position:relative;
+	float:none;margin-bottom:3px;	
+	display:block;
+
+	
+}
+
+.sf-menu li li a {
+	text-transform:uppercase;
+	 font-size:14px;
+	line-height:18px;
+	font-weight:normal;
+	display:inline-block;
+	position:relative;
+	text-decoration:none !important;	
+	color:#fff;
+	background:url(../images/marker-item.png) no-repeat -6px 3px;
+	padding-left:14px;
+}
+
+.sf-menu ul {
+	background:rgb(14,100,65);
+	position:absolute;
+	top:-999em;	
+	left:0;
+	display:none;
+	width:179px;
+	margin:0;
+	padding:0;
+	padding:17px 0 12px 19px; 
+	
+}
+
+
+.sf-menu li li a:hover , .sf-menu li li.sfHover a{
+background:url(../images/marker-item.png) no-repeat 0 3px
+}
+
+
+.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul {
+	left:140px;
+	top:-18px;
+}
