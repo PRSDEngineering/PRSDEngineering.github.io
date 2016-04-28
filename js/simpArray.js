@@ -16,7 +16,7 @@ function Next()
 	{
 		numPicture = 0;
 	}
-	
+	document.getElementById("start").innerHTML = ""
 	document.banner.src = images[numPicture];
     setTimeout("Next()",5000)     
 	
