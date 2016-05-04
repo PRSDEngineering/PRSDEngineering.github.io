@@ -1,5 +1,6 @@
 #<a href="http://egallis.ddns.net"> Our Personal Site</a>
 Pine-Richland TSA/School Website 2016
+##Please Contact before Forking
 
 Evan & Drew Gallis 2015-2016 TSA <br>
 (Took around 20 hours for all the info and structure)
