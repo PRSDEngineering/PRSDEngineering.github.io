@@ -1,125 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://prtsa.elementfx.com/</loc>
-  <lastmod>2016-03-11T15:09:35+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/index.html</loc>
-  <lastmod>2016-03-11T15:09:35+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/about.html</loc>
-  <lastmod>2016-02-03T18:16:05+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/pltwmain.html</loc>
-  <lastmod>2016-02-03T18:17:50+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/ied.html</loc>
-  <lastmod>2016-02-03T18:17:19+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/cim.html</loc>
-  <lastmod>2016-02-03T18:16:46+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/poe.html</loc>
-  <lastmod>2016-02-03T18:17:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/cea.html</loc>
-  <lastmod>2016-02-03T18:16:38+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/classes.html</loc>
-  <lastmod>2016-03-04T12:59:50+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/it.html</loc>
-  <lastmod>2016-02-03T18:17:40+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/se.html</loc>
-  <lastmod>2016-02-03T18:18:06+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/ase.html</loc>
-  <lastmod>2016-02-03T18:16:15+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/mp.html</loc>
-  <lastmod>2016-02-03T18:17:45+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/cad.html</loc>
-  <lastmod>2016-02-03T18:16:28+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/ed.html</loc>
-  <lastmod>2016-02-03T18:17:04+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/ad.html</loc>
-  <lastmod>2016-02-03T18:16:07+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/aa.html</loc>
-  <lastmod>2016-02-03T18:16:01+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/vp.html</loc>
-  <lastmod>2016-02-03T18:18:21+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/avp.html</loc>
-  <lastmod>2016-02-03T18:16:20+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/prtv.html</loc>
-  <lastmod>2016-02-03T18:17:58+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/re.html</loc>
-  <lastmod>2016-02-04T14:36:09+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/are.html</loc>
-  <lastmod>2016-02-04T14:32:56+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/tsa.html</loc>
-  <lastmod>2016-02-17T14:29:00+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/calendar.html</loc>
-  <lastmod>2016-03-11T14:42:17+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/contact.html</loc>
-  <lastmod>2016-02-03T18:17:00+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/battlebots.html</loc>
-  <lastmod>2016-02-03T18:16:24+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/botsiq.html</loc>
-  <lastmod>2016-03-11T14:55:06+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/INFORMATION/tsa2016_reg.pdf</loc>
-  <lastmod>2016-02-17T13:02:39+00:00</lastmod>
-</url>
-<url>
-  <loc>http://prtsa.elementfx.com/INFORMATION/certs.pdf</loc>
-  <lastmod>2015-12-19T00:08:30+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://prsdengineering.github.io/</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>1.00</priority></url>
+<url><loc>http://prsdengineering.github.io/index.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/about.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/pltwmain.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/ied.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/cim.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/poe.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/cea.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/classes.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/it.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/se.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/ase.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/mp.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/cad.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/ed.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/ad.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/aa.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/vp.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/avp.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/prtv.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/re.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/are.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/tsa.html</loc><lastmod>2016-05-09T14:01:33+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/calendar.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/contact.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/combatbots-2016.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/battlebots.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/combatbots.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://prsdengineering.github.io/botsiq.html</loc><lastmod>2016-05-09T14:01:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<!-- Generated by www.web-site-map.com -->
 </urlset>
